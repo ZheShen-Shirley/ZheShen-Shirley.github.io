@@ -13,3 +13,29 @@ My research addresses challenges in Fintech, Human-machine Collaboration, Artifi
 
 I am on the 2024 - 2025 job market.
 ======
+
+Research Interests
+======
+Topics: Fintech (e.g., Social Trading), AI, Human-machine Collaboration, Behavioral economics
+Methodologies: Machine Learning, Deep Learning, Econometrics
+
+Teaching Interests
+======
+LLM Applications, Applied Machine Learning, Deep Learning, Business Programming, Business Data Analytics, Fintech
+
+Papers Under Review/Revision 
+======
+Zhe Shen, Jiang Wei, and Zhiqiang (Eric) Zheng. “Irrationality-Aware Human Machine Collaboration: Mitigating Alterfactual Irrationality in Copy Trading”
+- Under Major Revision in Information Systems Research
+- Best Paper Award Finalist, WITS 2022
+
+Honors and Awards
+======
+• Best Paper Finalist, WITS, 2022
+• Outstanding Undergraduate Student, Huazhong University of Science and Technology, 2018
+• National Scholarship, China, 2015
+• Excellent Student Award, Huazhong University of Science and Technology, 2015 - 2017
+
+Contact Information
+======
+Email: [shirley.zhe.shen@sjtu.edu.cn](shirley.zhe.shen@sjtu.edu.cn)
