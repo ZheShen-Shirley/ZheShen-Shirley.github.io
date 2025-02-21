@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-##Irrationality-Aware Human Machine Collaboration: Mitigating Alterfactual Irrationality in Copy Trading##
+Irrationality-Aware Human Machine Collaboration: Mitigating Alterfactual Irrationality in Copy Trading
+######
 
 **Zhe Shen**, Wei Jiang, and Zhiqiang (Eric) Zheng.
 
