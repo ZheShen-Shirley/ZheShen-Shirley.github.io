@@ -274,12 +274,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _Conference-Presentations
   - scope:
       path: ""
-      type: talks
+      type: Conference-Presentations
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
