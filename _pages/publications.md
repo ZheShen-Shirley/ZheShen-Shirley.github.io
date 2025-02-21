@@ -1,17 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "WORKING PAPER"
 permalink: /publications/
 author_profile: true
 ---
 
-WORKING PAPERS
-======
-
 **Irrationality-Aware Human Machine Collaboration: Mitigating Alterfactual Irrationality in Copy Trading**
 
-**Zhe Shen**, Wei Jiang, and Zhiqiang (Eric) Zheng.
 
+**Zhe Shen**, Wei Jiang, and Zhiqiang (Eric) Zheng.
 - **Under Major Revision in Information Systems Research**
 - **Best Paper Award Finalist, WITS 2022**
 
