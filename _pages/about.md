@@ -26,7 +26,7 @@ LLM Applications, Applied Machine Learning, Deep Learning, Business Programming,
 Papers Under Review/Revision 
 ======
 **Zhe Shen**, Jiang Wei, and Zhiqiang (Eric) Zheng. “Irrationality-Aware Human Machine Collaboration: Mitigating Alterfactual Irrationality in Copy Trading”
-- **Forthcoming at in Information Systems Research**
+- **Forthcoming at Information Systems Research**
 - Best Paper Award Finalist, WITS 2022
 
 Honors and Awards
