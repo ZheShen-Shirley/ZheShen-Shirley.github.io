@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Management Science and Engineering, Information System
 
 My research addresses challenges in Fintech, Human-machine Collaboration, Artificial Intelligence (AI). Methodologically, I develop machine learning (ML) models to address emerging business challenges and apply econometric analysis to causal inference.
 
-I am on the 2024 - 2025 job market.
+I am on the 2025 - 2026 job market.
 ======
 
 Research Interests
