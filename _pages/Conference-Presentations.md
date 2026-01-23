@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Presentations"
 permalink: /Presentations/
 author_profile: true
 ---
 
-### CONFERENCE PRESENTATIONS
+### Conference Presentations
 
 **A Machine Learning Approach to Mitigate Irrationality in Copy Trading**
 - INFORMS Annual Meeting 2022, Indianapolis, IN, October 2022
@@ -15,8 +14,8 @@ author_profile: true
 - ISIKM2022, Online, March 2022
 
 ---
-### INVITED SEMINAR TALKS
+### Invited Seminar Talks
 
 - Stockholm School of Economics, House of Innovation, November 2025
-- Ko¸c University, Graduate School of Business, December 2025
+- Koç University, Graduate School of Business, December 2025
 - Shanghai University of Finance and Economics, School of Information Management and Engineering, January 2026
