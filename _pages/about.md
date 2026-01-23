@@ -23,7 +23,7 @@ Teaching Interests
 ======
 LLM Applications, Applied Machine Learning, Deep Learning, Business Programming, Business Data Analytics, Fintech
 
-Publication
+Publications
 ======
 **Zhe Shen**, Jiang Wei, and Zhiqiang (Eric) Zheng. “Irrationality-Aware Human Machine Collaboration: Mitigating Alterfactual Irrationality in Copy Trading”
 - **Forthcoming at Information Systems Research**
