@@ -7,8 +7,9 @@ author_profile: true
 ---
 ### Guest Lecturer
 - ECNU: 202621658 Seminars on Frontiers of Management Information Systems 2026 Fall
----
 
+  
+---
 ### Teaching Assistant
 - ECNU: BUSI1510.01 AI Programming and Python Practice 2026 Fall
 - SJTU: BU419 Business Administration Research Report (Undergraduate Course) 2019 - 2020
