@@ -4,7 +4,7 @@ permalink: /Presentations/
 author_profile: true
 ---
 
-
+### Conference Presentations
 
 **A Machine Learning Approach to Mitigate Irrationality in Copy Trading**
 - INFORMS Annual Meeting 2022, Indianapolis, IN, October 2022
