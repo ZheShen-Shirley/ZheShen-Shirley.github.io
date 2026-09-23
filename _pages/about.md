@@ -26,6 +26,14 @@ Honors and Awards
 - National Scholarship, China, 2015
 - Excellent Student Award, Huazhong University of Science and Technology, 2015 - 2017
 
+Hobbies
+======
+- Solo travel
+- Table tennis
+- Classical music
+- Hiking
+- The world!!!
+  
 Contact Information
 ======
 Email: [zshen@sem.ecnu.edu.cn](zshen@sem.ecnu.edu.cn)
