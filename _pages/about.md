@@ -7,27 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Management Science and Engineering, Information Systems Concentration, at [Antai College of Economics & Management (ACEM)](https://www.acem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am advised by Prof. [Wei Jiang](https://www.acem.sjtu.edu.cn/en/faculty/jiangwei.html) and Prof. [Zhiqiang (Eric) Zheng](https://personal.utdallas.edu/~ericz/). 
+
+I am an Assistant Professor of Management Information Systems in the School of Economics and Management at East China Normal University (ECNU). Before that, I earned my Ph.D. in Management Science and Engineering at [Antai College of Economics & Management (ACEM)](https://www.acem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I was extremely fortunate to be supervised by Prof. [Wei Jiang](https://www.acem.sjtu.edu.cn/en/faculty/jiangwei.html) and Prof. [Zhiqiang (Eric) Zheng](https://personal.utdallas.edu/~ericz/). 
 
 My research addresses challenges in Fintech, Human-machine Collaboration, Artificial Intelligence (AI). Methodologically, I develop machine learning (ML) models to address emerging business challenges and apply econometric analysis to causal inference.
 
-I am on the 2025 - 2026 job market.
 ======
 
 Research Interests
 ======
 Topics: Fintech (e.g., Social Trading), AI, Human-machine Collaboration, Behavioral economics
-Methodologies: Machine Learning, Deep Learning, Econometrics
-
-Teaching Interests
-======
-LLM Applications, Applied Machine Learning, Deep Learning, Business Programming, Business Data Analytics, Fintech
-
-Publications
-======
-**Zhe Shen**, Jiang Wei, and Zhiqiang (Eric) Zheng. “Irrationality-Aware Human Machine Collaboration: Mitigating Alterfactual Irrationality in Copy Trading”
-- **Forthcoming at Information Systems Research**
-- Best Paper Award Finalist, WITS 2022
+Methodologies: Machine Learning, Deep Learning, Casual Inference
 
 Honors and Awards
 ======
@@ -38,4 +28,4 @@ Honors and Awards
 
 Contact Information
 ======
-Email: [shirley.zhe.shen@sjtu.edu.cn](shirley.zhe.shen@sjtu.edu.cn)
+Email: [zshen@sem.ecnu.edu.cn](zshen@sem.ecnu.edu.cn)
