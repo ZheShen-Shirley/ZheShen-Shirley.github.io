@@ -12,8 +12,6 @@ I am an Assistant Professor of Management Information Systems in the School of E
 
 My research addresses challenges in Fintech, Human-machine Collaboration, Artificial Intelligence (AI). Methodologically, I develop machine learning (ML) models to address emerging business challenges and apply econometric analysis to causal inference.
 
-======
-
 Research Interests
 ======
 Topics: Fintech (e.g., Social Trading), AI, Human-machine Collaboration, Behavioral economics
