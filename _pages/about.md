@@ -19,10 +19,12 @@ Methodologies: Machine Learning, Deep Learning, Casual Inference
 
 Honors and Awards
 ======
+- Outstanding Graduate Student (top 2%), SJTU, 2026
+- Academic Star Award Finalist (top 0.1%), SJTU, 2025
 - Best Paper Finalist, WITS, 2022
-- Outstanding Undergraduate Student, Huazhong University of Science and Technology, 2018
+- Outstanding Undergraduate Student, HUST, 2018
 - National Scholarship, China, 2015
-- Excellent Student Award, Huazhong University of Science and Technology, 2015 - 2017
+- Excellent Student Award, HUST, 2015 - 2017
 
 Hobbies
 ======
